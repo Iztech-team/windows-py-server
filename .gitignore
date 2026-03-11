@@ -1,0 +1,41 @@
+# Runtime
+server.log
+uploads/
+__pycache__/
+*.pyc
+
+# Local config
+.env
+printer_registry.json
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# OS
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# Test files
+pizza.png
+
+# Large binaries (WSA, APK) — kept locally, not in repo
+*.Msixbundle
+*.msixbundle
+*.apk
+WSA_*/
+WSA*/
+
+# Build artifacts
+*.egg-info/
+dist/
+build/
+
+# Cursor
+.cursor/
+agent-transcripts/
+mcps/
+terminals/
+assets/

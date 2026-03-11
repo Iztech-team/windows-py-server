@@ -1,0 +1,9 @@
+# Baraka Printer Server - Windows Edition
+# Same dependencies as the Raspberry Pi version
+fastapi>=0.100.0
+uvicorn>=0.23.0
+python-escpos>=3.0
+python-dotenv>=1.0.0
+Pillow==12.1.1
+werkzeug>=3.0
+python-multipart>=0.0.6
